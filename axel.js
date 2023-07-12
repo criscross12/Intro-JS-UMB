@@ -1,3 +1,3 @@
-a = 2;
-b= 5;
-console.log("La suma es: ",a+b)
+a = 0;
+b= "Esto es un mensaje de prueba :)";
+console.log(a+b)
